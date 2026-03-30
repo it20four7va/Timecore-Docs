@@ -1,0 +1,24 @@
+site_name: Raj Dev Docs
+
+nav:
+  - Public:
+      - Getting Started: public/getting-started.md
+      - Install Java: public/how-to-install-java.md
+  - Private:
+      - Internal Notes: private/internal.md
+
+theme:
+  name: material
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - 
+  markdown_extensions:
+  - codehilite
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
