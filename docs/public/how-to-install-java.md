@@ -113,3 +113,30 @@ Run in terminal:
 Expected Output:
 **java version "21"**
 
+
+##  Common issues
+
+**Issue: java command not found**
+
+Fix:
+
+    export PATH=$PATH:$JAVA_HOME/bin
+
+**Issue: Multiple Java versions conflict**
+
+Fix:
+
+    update-alternatives --config java
+
+## Rollback
+
+**Windows**
+Uninstall via Control Panel
+
+**macOS**
+
+    sudo rm -rf /Library/Java/JavaVirtualMachines/jdk-21.jdk
+
+**Linux**
+
+    sudo rm -rf /usr/lib/jvm/jdk-21

@@ -12,13 +12,13 @@ theme:
   features:
     - content.code.copy
     - content.code.annotate
-    - 
-  markdown_extensions:
+
+markdown_extensions:
   - codehilite
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.inlinehilite
   - admonition
+  - pymdownx.details
   - toc:
       permalink: true
-  - pymdownx.details
-  - pymdownx.superfences
