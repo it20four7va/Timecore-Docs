@@ -6,6 +6,7 @@ nav:
       - Install Java: public/how-to-install-java.md
   - Private:
       - Internal Notes: private/internal.md
+      - Maintenance DOC: private/server-maintenance.md
 
 theme:
   name: material
