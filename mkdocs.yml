@@ -1,18 +1,23 @@
 site_name: Raj Dev Docs
+site_description: Public Documentation & Help Guides
+site_author: Raj
+
+site_url: https://<your-username>.github.io/raj-docs-public/
+
+docs_dir: docs
+site_dir: site
 
 nav:
-  - Public:
-      - Getting Started: public/getting-started.md
-      - Install Java: public/how-to-install-java.md
-  - Private:
-      - Internal Notes: private/internal.md
-      - Maintenance DOC: private/server-maintenance.md
+  - Getting Started: public/getting-started.md
+  - Install Java: public/how-to-install-java.md
 
 theme:
   name: material
   features:
     - content.code.copy
     - content.code.annotate
+    - navigation.top
+    - navigation.sections
 
 markdown_extensions:
   - codehilite
@@ -23,3 +28,11 @@ markdown_extensions:
   - pymdownx.details
   - toc:
       permalink: true
+
+# Allow indexing (public site)
+extra:
+  robots: |
+    User-agent: *
+    Allow: /
+
+strict: true
