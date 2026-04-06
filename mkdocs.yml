@@ -10,6 +10,7 @@ site_dir: site
 nav:
   - Getting Started: public/getting-started.md
   - Install Java: public/how-to-install-java.md
+  - FAQs: public/faq.md
 
 theme:
   name: material
