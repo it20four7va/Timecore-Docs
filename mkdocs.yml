@@ -8,6 +8,7 @@ docs_dir: docs
 site_dir: site
 
 nav:
+  - Home: index.md
   - Public:
       - Getting Started: public/getting-started.md
       - Install Java: public/how-to-install-java.md

@@ -24,7 +24,7 @@ This page allows the user to view their tasks, work hours, and screenshots for a
 
 A pop-up message is displayed. Click the **‘OK’** button to continue deleting or the **‘Cancel’** button to cancel the process. Upon clicking the **‘OK’** button, a successful deletion confirmation message should be displayed on the screen.
 
-## **How to delete session?**
+## **How to delete a session?**
 
 1. On the **‘View Screenshots’** page, enter the desired ‘From Date’ and ‘To Date’ and click the ‘Refresh’ button.
 
@@ -32,4 +32,4 @@ A pop-up message is displayed. Click the **‘OK’** button to continue deletin
 
 3. Click on the corresponding **‘Actions (...)’** button and select the **‘Delete Session’** option.
 
-A pop-up message is displayed. Click the **‘OK’** button to continue deleting or the **‘Cancel’** button to cancel the process (Figure 14). Upon clicking the **‘OK’** button, a successful deletion confirmation message should be displayed on the screen
+A pop-up message is displayed. Click the **‘OK’** button to continue deleting or the **‘Cancel’** button to cancel the process (Figure 14). Upon clicking the **‘OK’** button, a successful deletion confirmation message should be displayed on the screen.
