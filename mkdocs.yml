@@ -14,6 +14,7 @@ nav:
       - FAQs: public/faq.md
       - User Guide: public/user-guide.md
       - User Dashboard: public/user-dashboard.md
+      - Screenshots: public/screenshots.md
 
 theme:
   name: material
