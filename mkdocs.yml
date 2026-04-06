@@ -8,9 +8,11 @@ docs_dir: docs
 site_dir: site
 
 nav:
-  - Getting Started: public/getting-started.md
-  - Install Java: public/how-to-install-java.md
-  - FAQs: public/faq.md
+  - Public:
+      - Getting Started: public/getting-started.md
+      - Install Java: public/how-to-install-java.md
+      - FAQs: public/faq.md
+      - User Guide: public/user-guide.md
 
 theme:
   name: material
