@@ -13,6 +13,7 @@ nav:
       - Install Java: public/how-to-install-java.md
       - FAQs: public/faq.md
       - User Guide: public/user-guide.md
+      - User Dashboard: public/user-dashboard.md
 
 theme:
   name: material
