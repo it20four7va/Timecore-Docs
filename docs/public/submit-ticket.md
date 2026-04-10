@@ -6,4 +6,4 @@
    - Fill out all the required fields on the **‘Create Ticket’** page and click the **‘Create Ticket’** button.
    - Upon providing all the required fields and clicking the **‘Create Ticket’** button on the **‘Create Ticket’** page, a successful confirmation message is displayed.
   
-   **NOTE:** If the form is not working, you can drop an email to *codestacks@20four7va.com*
+   **NOTE:** If the form is not working, you can drop an email to *codestacks [at] 20four7va.com*
