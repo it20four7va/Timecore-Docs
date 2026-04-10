@@ -16,6 +16,7 @@ nav:
       - User Guide: public/user-guide.md
       - User Dashboard: public/user-dashboard.md
       - Screenshots: public/screenshots.md
+      - Manual logs: public/manual-logs.md
 
 theme:
   name: material
