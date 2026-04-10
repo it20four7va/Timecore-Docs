@@ -19,6 +19,7 @@ nav:
       - Manual logs: public/manual-logs.md
       - Reports: public/reports.md
       - Submit Ticket: public/submit-ticket.md
+      - Changelog: public/changelog.md
 
 theme:
   name: material

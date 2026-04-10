@@ -1,5 +1,5 @@
 
-1. **How to submit a ticket to the IT Department?**
+1. **How to submit a ticket to the IT Department ?**
    
    - On the menu, click the **‘Help’** and then the **‘Submit Ticket’** sub-menu.
    - The **‘Create Ticket’** page is displayed.
