@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://&lt;your-username&gt;.github.io/raj-docs-public/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-10</lastmod>
     </url>
     <url>
          <loc>https://&lt;your-username&gt;.github.io/raj-docs-public/public/faq/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-10</lastmod>
     </url>
     <url>
          <loc>https://&lt;your-username&gt;.github.io/raj-docs-public/public/getting-started/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-10</lastmod>
     </url>
     <url>
          <loc>https://&lt;your-username&gt;.github.io/raj-docs-public/public/how-to-install-java/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-10</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;your-username&gt;.github.io/raj-docs-public/public/manual-logs/</loc>
+         <lastmod>2026-04-10</lastmod>
     </url>
     <url>
          <loc>https://&lt;your-username&gt;.github.io/raj-docs-public/public/screenshots/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-10</lastmod>
     </url>
     <url>
          <loc>https://&lt;your-username&gt;.github.io/raj-docs-public/public/user-dashboard/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-10</lastmod>
     </url>
     <url>
          <loc>https://&lt;your-username&gt;.github.io/raj-docs-public/public/user-guide/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-10</lastmod>
     </url>
 </urlset>
