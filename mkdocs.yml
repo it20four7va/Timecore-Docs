@@ -18,6 +18,7 @@ nav:
       - Screenshots: public/screenshots.md
       - Manual logs: public/manual-logs.md
       - Reports: public/reports.md
+      - Submit Ticket: public/submit-ticket.md
 
 theme:
   name: material
